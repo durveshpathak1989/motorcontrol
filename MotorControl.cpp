@@ -1,3 +1,10 @@
+/*
+ * Name: MotorControl.cpp
+ * Use: Implementation of ESC PWM setup, motor arming, and motor output commands.
+ * Version: 4.0.0
+ * Created by: Durvesh Pathak dp676@cornell.edu
+ */
+
 /**
  * ============================================================
  *  MotorControl.cpp — Fast non-blocking ESC PWM motor output

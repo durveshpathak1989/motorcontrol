@@ -1,3 +1,10 @@
+/*
+ * Name: MotorControl.h
+ * Use: Declaration for ESC PWM setup, motor arming, and motor output commands.
+ * Version: 4.0.0
+ * Created by: Durvesh Pathak dp676@cornell.edu
+ */
+
 //**
  /* ============================================================
  *  MotorControl.h — ESC PWM Motor Control
