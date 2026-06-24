@@ -1,5 +1,9 @@
 # Test Quad MotorControl Library
 
+## Explain It Simply
+
+This module sends commands to the four motors. Bigger numbers mean more push. The flight controller changes each motor a little bit to roll, pitch, yaw, and stay level.
+
 This library owns ESC PWM setup and motor output writes for the X quad layout.
 
 ## Pin Map

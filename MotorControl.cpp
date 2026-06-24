@@ -19,7 +19,7 @@
  */
 
 #include "MotorControl.h"
-#include "DebugConfig.h"
+#include "../DebugConfig/DebugConfig.h"
 
 #if __has_include(<esp_arduino_version.h>)
   #include <esp_arduino_version.h>
