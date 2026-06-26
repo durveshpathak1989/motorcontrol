@@ -57,7 +57,7 @@
 // ─────────────────────────────────────────────────────────────
 //  Safety limits
 // ─────────────────────────────────────────────────────────────
-#define MOTOR_THROTTLE_MAX     0.95f
+#define MOTOR_THROTTLE_MAX     1.00f
 #define MOTOR_THROTTLE_MIN     0.0f
 #define MOTOR_IDLE_THROTTLE    0.05f
 
